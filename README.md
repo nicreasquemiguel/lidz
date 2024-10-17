@@ -1,1 +1,1 @@
-# lidz practica
+#Proyecto Lidz
